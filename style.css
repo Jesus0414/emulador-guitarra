@@ -54,5 +54,17 @@ p{
     text-align: center;
     margin-left: 15%;
     margin-right: 15%;
-    
+}
+.texto{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.Guitarra{
+    vertical-align: bottom;
+    text-align: center;
+    margin-top: 10%;
 }
