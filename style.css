@@ -1,12 +1,20 @@
 body{
     background-color: black;
+    
 }
 .menu{
     vertical-align: middle;
     text-align: center;
     position: relative;
 }
-
+#iea{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    vertical-align: middle;
+    text-align: center;
+    margin-top: 15%; 
+}
 a{
     text-align: center;
     vertical-align: middle;
