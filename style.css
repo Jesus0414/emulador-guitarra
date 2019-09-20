@@ -1,6 +1,6 @@
 body{
+    background-image: url(http://66.media.tumblr.com/8b4a2859adf37842c6f5d38f360097c3/tumblr_nm18vkEP9l1qjjl87o1_r1_540.gif);
     background-color: black;
-    
 }
 .menu{
     vertical-align: middle;
@@ -31,6 +31,7 @@ a:hover{
     margin-top: 1%;
     width: 50px;
     height: 50px;
+    background-color: white;
 }
 h1{
     color: white;
